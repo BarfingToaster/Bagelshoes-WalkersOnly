@@ -5,7 +5,7 @@ This mod is for the PC game 7 Days to Die. It limits all zombies to walking spee
 
 It can be installed as a server side only mod. Does not require a new world/game save.
 
-========================================================================================
+=====================================================================
 
 Mod Installation
 
@@ -13,4 +13,4 @@ Mod Installation
 
 2. Place the extracted folder into your game's "Mods" folder.
 
-========================================================================================
+=====================================================================
